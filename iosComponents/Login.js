@@ -20,7 +20,7 @@ class Login extends Component {
     super(props);
 
     this.state = {
-      showProgress: true
+      showProgress: false
     }
   }
 
